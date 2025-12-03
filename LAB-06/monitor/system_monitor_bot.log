@@ -1,0 +1,9 @@
+2025-12-03 16:42:25,021 - INFO - System Monitor: Starting system monitoring ...
+2025-12-03 16:42:25,021 - INFO - CPU: Usage: 21.3%
+2025-12-03 16:42:25,021 - INFO - Memory: Usage: 90.7%
+2025-12-03 16:47:51,005 - INFO - System Monitor: Starting system monitoring ...
+2025-12-03 16:47:51,006 - INFO - CPU: Usage: 19.1%
+2025-12-03 16:47:51,006 - INFO - Memory: Usage: 87.4%
+2025-12-03 16:47:55,411 - INFO - HTTP Request: POST https://api.telegram.org/bot8335872033:AAEFkZ7mTTUjbLBaDBVs-B0K4arVl7My6bY/sendMessage "HTTP/1.1 200 OK"
+2025-12-03 16:47:55,418 - INFO - System Monitor: Monitoring cycle completed.
+
